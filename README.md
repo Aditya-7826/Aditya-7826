@@ -1,4 +1,3 @@
-```markdown
 <!--
   PROFILE README
   Add the image you shared to this repository at:
@@ -223,4 +222,3 @@ jobs:
     alt="Red-and-black waving footer"
   />
 </p>
-```
