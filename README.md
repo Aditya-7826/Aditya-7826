@@ -94,12 +94,17 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode&theme=dark"
-    alt="Tech stack icons"
-  />
+  <code>Python</code> &nbsp;
+  <code>JavaScript</code> &nbsp;
+  <code>TypeScript</code> &nbsp;
+  <code>HTML</code> &nbsp;
+  <code>CSS</code> &nbsp;
+  <code>React</code> &nbsp;
+  <code>Node.js</code> &nbsp;
+  <code>Git</code> &nbsp;
+  <code>GitHub</code> &nbsp;
+  <code>VS Code</code>
 </p>
-
 <p align="center">
   <sub>Update the icons above to match the technologies you use.</sub>
 </p>
