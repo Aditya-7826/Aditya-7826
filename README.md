@@ -1,12 +1,146 @@
-# 💫 About Me:
-Create a modern, visually striking GitHub profile README for username: Aditya-7826<br><br>STYLE<br>- Theme: blue and black (primary #1F6FEB, accents #58A6FF / #0A3D91, background #05070D / #0D1117). Keep it consistent across every badge, stat card and graph.<br>- Animated capsule-render "waving" header banner with my name (gradient #05070D → #0A3D91 → #1F6FEB), and a matching waving footer.<br>- Animated typing SVG (color #58A6FF) under the header with these lines:<br>  "I build AI that shows its receipts" ; "Multi-agent systems · GraphRAG · Deep Learning" ; "Local-first, free-tier, benchmark-tested" ; "Keeping complex things simple"<br>- Clean, centered layout, section dividers, works in light and dark mode. No placeholder text anywhere.<br><br>1. NAME & HEADLINE<br>- Full name: Aditya Verma (alias: Alipse)<br>- Headline: AI/ML Engineer in the making · Multi-Agent Systems · GraphRAG · Deep Learning<br><br>2. ABOUT ME (short, punchy bio)<br>"I build AI for places where 'the model was probably right' isn't good enough: compliance, healthcare, finance, anywhere a hallucination has a real cost. My systems cite their sources, ask before they act, and admit when they don't know. Everything I ship runs local-first on free tools and gets measured on a benchmark, not on vibes."<br><br>3. TECH STACK (use skill icons / shields.io badges, grouped)<br>- Languages: Python, Java, TypeScript, JavaScript, C++, SQL<br>- AI / LLM: LangGraph, LangChain, MCP, Ollama, GraphRAG, ChromaDB, Neo4j, Langfuse<br>- ML & Deep Learning: PyTorch, ONNX, Scikit-learn, Pandas, NumPy, Matplotlib, Prophet<br>- Backend: Spring Boot, FastAPI, Flask, Streamlit<br>- Frontend: Next.js, React, Tailwind CSS, HTML, CSS<br>- Databases & Cloud: PostgreSQL, Supabase, SQLite, AWS, Vercel<br>- Tools: Docker, Git, GitHub, VS Code<br><br>4. TOP 5 PROJECTS (cards or a table: name, one-line description, tech tags, GitHub link)<br>1) OrchestraOS — A free, local multi-agent AI system: a LangGraph supervisor plans each goal and routes steps to research, analytics, writing and action agents over MCP, with human approval, cross-session memory and Langfuse tracing. Passes 35/36 (97%) benchmark tasks on an 8 GB laptop with Ollama.<br>   Tags: LangGraph, MCP, Ollama, FastAPI, Streamlit, Docker, ChromaDB<br>   Link: https://github.com/Aditya-7826/orchestraos<br>2) PolicyLens — Hybrid GraphRAG assistant for policy and compliance documents (DPDP, GDPR, NIST CSF 2.0, SP 800-53) that combines a knowledge graph, vector search and BM25, returns verified citations, and abstains when unsure. 100% free tier.<br>   Tags: GraphRAG, Knowledge Graph, Vector Search, BM25, Python<br>   Link: https://github.com/Aditya-7826/policylens<br>3) LedgerGuard — A transaction ledger paired with an AI fraud-investigation agent: a Spring Boot ledger records money movement, and a LangGraph agent investigates suspicious transactions with MCP tools, running entirely on a free local Ollama model.<br>   Tags: Spring Boot, Java, Python, LangGraph, MCP, Ollama<br>   Link: https://github.com/Aditya-7826/LedgerGuard<br>4) DeepTrace — Deepfake detector that flags manipulated faces in images and video, served through a FastAPI backend with an ONNX-exported PyTorch model and a Chrome extension for checking media right in the browser.<br>   Tags: PyTorch, ONNX, FastAPI, Chrome Extension, Computer Vision<br>   Link: https://github.com/Aditya-7826/DeepTrace<br>5) Campus Event Pulse — Campus event discovery and registration app with authenticated accounts, protected event management and transactional registrations.<br>   Tags: Next.js 14, TypeScript, Supabase, PostgreSQL<br>   Link: https://github.com/Aditya-7826/Campus-Event-Pulse<br><br>5. GITHUB STATS (all enabled, blue/black themed, transparent backgrounds, no borders)<br>- GitHub stats card (github-readme-stats) with icons and private contributions counted<br>- GitHub streak stats (streak-stats.demolab.com)<br>- Most used languages card (compact layout)<br>- Contribution / activity graph (github-readme-activity-graph)<br><br>6. BEYOND THE CODE (fun section)<br>- 🤖 AI genuinely excites me: I'm always taking apart how models reason, fail and get better, and building agents to test it.<br>- 💬 Ask me about: 📚 Novels · ⚽ Sports · 🎸 Guitar · 🏎️ Cars<br>- ⚡ Fun fact: I love keeping complex things simple.<br><br>7. CONNECT (badges)<br>- LinkedIn: https://www.linkedin.com/in/adityaverma09<br>- Gmail: mailto:adityaverma7826@gmail.com<br><br>Output the complete README.md as a single markdown file.
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070D,50:0A3D91,100:1F6FEB&text=Aditya%20Verma&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Alipse%20%20%E2%80%A2%20%20AI%20that%20shows%20its%20receipts&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aditya Verma" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aditya-7826&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aditya-7826&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya-7826&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/Aditya-7826">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=I+build+AI+that+shows+its+receipts;Multi-agent+systems+%C2%B7+GraphRAG+%C2%B7+Deep+Learning;Local-first%2C+free-tier%2C+benchmark-tested;Keeping+complex+things+simple" alt="Typing intro" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>AI/ML Engineer in the making · Multi-Agent Systems · GraphRAG · Deep Learning</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Aditya-7826?label=Followers&style=for-the-badge&color=1F6FEB&labelColor=05070D" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya-7826&label=Profile%20views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aditya-7826&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ============ ABOUT ============ -->
+<h2 align="center">🧠 About Me</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <p>
+        I build AI for places where <em>"the model was probably right"</em> isn't good enough:
+        <strong>compliance, healthcare, finance</strong>, anywhere a hallucination has a real cost.
+        My systems <strong>cite their sources, ask before they act, and admit when they don't know</strong>.
+        Everything I ship runs local-first on free tools and gets measured on a benchmark, not on vibes.
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/about-me.png" width="100%" alt="Developer at night" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ============ TECH STACK ============ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center"><strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp&theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/SQL-0A3D91?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+<p align="center"><strong>AI / LLM</strong><br/>
+  <img src="https://img.shields.io/badge/LangGraph-1F6FEB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-0A3D91?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Ollama-0A3D91?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/GraphRAG-1F6FEB?style=for-the-badge&logoColor=white" alt="GraphRAG" />
+  <img src="https://img.shields.io/badge/ChromaDB-0A3D91?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Neo4j-1F6FEB?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Langfuse-0A3D91?style=for-the-badge&logoColor=white" alt="Langfuse" />
+</p>
+
+<p align="center"><strong>ML & Deep Learning</strong><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ML" />
+  <img src="https://img.shields.io/badge/ONNX-1F6FEB?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/Pandas-0A3D91?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-1F6FEB?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-0A3D91?style=for-the-badge&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Prophet-1F6FEB?style=for-the-badge&logoColor=white" alt="Prophet" />
+</p>
+
+<p align="center"><strong>Backend & Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nextjs,react,tailwind,html,css&theme=dark" alt="Web" />
+  <img src="https://img.shields.io/badge/Streamlit-1F6FEB?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+<p align="center"><strong>Databases, Cloud & Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,aws,vercel,docker,git,github,vscode&theme=dark" alt="Tools" />
+</p>
+
+---
+
+<!-- ============ PROJECTS ============ -->
+<h2 align="center">🚀 Top Projects</h2>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**OrchestraOS**](https://github.com/Aditya-7826/orchestraos) | Free, local multi-agent AI system. A LangGraph supervisor routes each goal to research, analytics, writing and action agents over MCP, with human approval, memory and tracing. **35/36 (97%)** benchmark tasks passed on an 8 GB laptop. | LangGraph · MCP · Ollama · FastAPI · Docker |
+| [**PolicyLens**](https://github.com/Aditya-7826/policylens) | Hybrid GraphRAG assistant for compliance docs (DPDP, GDPR, NIST CSF 2.0, SP 800-53). Knowledge graph + vector + BM25 retrieval, verified citations, abstains when unsure. | GraphRAG · Knowledge Graph · Python |
+| [**LedgerGuard**](https://github.com/Aditya-7826/LedgerGuard) | Transaction ledger paired with an AI fraud-investigation agent that digs into suspicious transactions using MCP tools, fully on a free local model. | Spring Boot · LangGraph · MCP · Ollama |
+| [**DeepTrace**](https://github.com/Aditya-7826/DeepTrace) | Deepfake detector for images and video, served via FastAPI with an ONNX-exported PyTorch model and a Chrome extension for in-browser checks. | PyTorch · ONNX · FastAPI · Chrome Ext |
+| [**Campus Event Pulse**](https://github.com/Aditya-7826/Campus-Event-Pulse) | Campus event discovery and registration with auth, protected event management and transactional sign-ups. | Next.js 14 · TypeScript · Supabase |
+
+---
+
+<!-- ============ STATS ============ -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-7826&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-7826&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya-7826&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-7826&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=0A3D91&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+<!-- ============ FUN ============ -->
+<h2 align="center">🎸 Beyond the Code</h2>
+
+<p align="center">
+  🤖 AI genuinely excites me: I'm always taking apart how models reason, fail and get better, and building agents to test it.
+</p>
+
+<p align="center"><strong>💬 Ask me about</strong><br/><br/>
+  <img src="https://img.shields.io/badge/📚_Novels-0A3D91?style=for-the-badge" alt="Novels" />
+  <img src="https://img.shields.io/badge/⚽_Sports-1F6FEB?style=for-the-badge" alt="Sports" />
+  <img src="https://img.shields.io/badge/🎸_Guitar-0A3D91?style=for-the-badge" alt="Guitar" />
+  <img src="https://img.shields.io/badge/🏎️_Cars-1F6FEB?style=for-the-badge" alt="Cars" />
+</p>
+
+<p align="center">⚡ <strong>Fun fact:</strong> I love keeping complex things simple.</p>
+
+---
+
+<!-- ============ CONNECT ============ -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityaverma09">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adityaverma7826@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say_hello-0A3D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1F6FEB,50:0A3D91,100:05070D" width="100%" alt="Footer" />
+</p>
