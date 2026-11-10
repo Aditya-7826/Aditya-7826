@@ -23,21 +23,30 @@
 <!-- ============ ABOUT ============ -->
 <h2 align="center">🧠 About Me</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="65%" valign="middle">
-      <p>
-        I build AI for places where <em>"the model was probably right"</em> isn't good enough:
-        <strong>compliance, healthcare, finance</strong>, anywhere a hallucination has a real cost.
-        My systems <strong>cite their sources, ask before they act, and admit when they don't know</strong>.
-        Everything I ship runs local-first on free tools and gets measured on a benchmark, not on vibes.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="assets/about-me.png" width="100%" alt="Developer at night" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  <em>"The model was probably right"</em> isn't good enough for me.
+</h3>
+
+<p align="center">
+  I build AI for <strong>compliance, healthcare and finance</strong>, the places where a hallucination has a real cost.
+</p>
+
+```python
+class AdityaVerma:
+    alias      = "Alipse"
+    role       = "AI/ML Engineer in the making"
+    builds     = ["Multi-agent systems", "GraphRAG", "Deep learning"]
+    my_ai      = {
+        "cites_sources":   True,   # every answer shows its receipts
+        "asks_before_act": True,   # human approval on side effects
+        "says_idk":        True,   # abstains instead of guessing
+    }
+    runs_on    = "local-first, free-tier, zero paid APIs"
+    measured_by = "benchmarks, not vibes"
+
+    def philosophy(self):
+        return "Keep complex things simple."
+```
 
 ---
 
